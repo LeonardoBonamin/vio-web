@@ -42,7 +42,7 @@ app.get("/api/status", (req, res) => {
   res.json({
     projeto: "VIO Web",
     status: "online",
-    mensagem: "API VIO online — versão v1.0.1 publicada na Azure.",
+    mensagem: "API VIO online — versão v1.0.2 publicada na Azure. Aluno: LEONARDO CENTENO BONAMIN - 4º DSM",
   });
 });
 
